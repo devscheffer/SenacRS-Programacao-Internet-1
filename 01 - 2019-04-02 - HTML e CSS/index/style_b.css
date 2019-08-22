@@ -1,0 +1,22 @@
+body {
+	background-color: #56E0E5
+}
+h1 {
+	color: #FE0101;
+	font-size: 20px;
+	text-align: center;
+}
+table{
+	margin-left: 25%;
+}
+td {
+	width: 30%;
+}
+td.t1 {
+	background-color: #2980CB
+}
+
+td.button{
+	text-align: right;
+}
+		
